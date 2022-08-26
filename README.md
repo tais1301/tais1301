@@ -1,6 +1,6 @@
- ##Olá! Eu sou a Taís Batista 👋
+  ##Olá! Eu sou a Taís Batista✌️
   
-- 🔭 Trabalho com front-end e back-end
+🔭 Trabalho com front-end e back-end
 
 <div align="center">
   <a href="https://github.com/tais1301">
