@@ -1,4 +1,4 @@
-  ## :six_pointed_star: Olá! Eu sou a Taís Batista✌️
+  ## Olá! Eu sou a Tais Batista✌️
   
 🔭 Trabalho com front-end e back-end
 
