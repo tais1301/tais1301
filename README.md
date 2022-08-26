@@ -1,7 +1,6 @@
  ##Olá! Eu sou a Taís Batista 👋
   
 - 🔭 Trabalho com front-end e back-end
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/tais1301">
