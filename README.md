@@ -2,12 +2,12 @@
   
 🔭 Trabalho com front-end e back-end
 
+## :chart: Status Github
 <div align="center">
   <a href="https://github.com/tais1301">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tais1301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tais1301&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
  
  
  ## :six_pointed_star: Tecnologias
@@ -26,7 +26,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div><br><br>
-
 
 ## :telephone_receiver: Contato
 
