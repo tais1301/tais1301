@@ -2,9 +2,6 @@
   
 🔭 Trabalho com front-end e back-end
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 ## :chart: Status Github
 <div align="center">
   <a href="https://github.com/tais1301">
@@ -26,7 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <i class="devicon-mysql-original" align="center" alt="bootstrap" height="30" width="40"></i>
+
 
   
   
